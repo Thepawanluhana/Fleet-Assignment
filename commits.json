@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "62d007aa24025f18718c42c6"
+  },
+  "oid": "a1bf367b3af680b1182cc52bb77ba095764a11f9",
+  "message": "repo-updater: Use config value repoListUpdateInterval (#14983) This value was previously used to specify how frequently we would sync\nwith code hosts so it makes sense to reuse it to set a lower bound on\nhow often we sync now that we have backoff logic.",
+  "author": {
+    "name": "Ryan Slade",
+    "date": "2020-10-22T16:45:31+02:00",
+    "email": "ryanslade@gmail.com"
+  },
+  "committer": {
+    "name": "GitHub",
+    "date": "2020-10-22T16:45:31+02:00",
+    "email": "noreply@github.com"
+  },
+  "parents": [
+    {
+      "oid": "89600bf602242ef66a741589b5bf784e378e5ead"
+    }
+  ]
+}]
