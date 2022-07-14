@@ -12,7 +12,7 @@ A. Github  - This is the directory for front-end part.
   ```
 
 B. Github-backend - This is the directory for back-end part.
-  #Running back-end
+  # Running back-end
   1. Open terminal and navigate to the directory and use the following command to install npm dependencies:
   ```sh
     npm i
